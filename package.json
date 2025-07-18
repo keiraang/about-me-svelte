@@ -5,7 +5,6 @@
   "type": "module",
   "homepage": "https://keiraang.github.io/svelte-about-me",
   "scripts": {
-    "predeploy": "npm run build",
     "dev": "vite",
     "build": "vite build",
     "deploy": "npm run build && gh-pages -d dist",
